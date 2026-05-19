@@ -1,0 +1,8 @@
+Django==5.2.14
+djangorestframework==3.17.1
+django-cors-headers==4.9.0
+asgiref==3.11.1
+sqlparse==0.5.5
+pymongo==4.17.0
+dnspython==2.8.0
+tzdata==2026.2
